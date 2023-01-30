@@ -1,0 +1,23 @@
+{
+    "photo1": {
+        "link": "https://raw.githubusercontent.com/trunghnue/bb1/main/p1.png",
+        "avatar1": {
+            "x" : "-89",
+            "y" : "456",
+            "width" : "235",
+            "height" : "235"
+        },
+        "avatar2": {
+            "x" : "89",
+            "y" : "303",
+            "width" : "235",
+            "height" : "235"
+        },
+        "avatar3": {
+            "x" : "-99",
+            "y" : "165",
+            "width" : "235",
+            "height" : "235"
+        }
+    }
+}
